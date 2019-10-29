@@ -1,0 +1,271 @@
+.seckill-box{
+    height: 340px;
+    padding-bottom: 40px;
+    width: 1240px;
+
+
+}
+.time-title{
+    width: 234px;
+    padding-top: 39px;
+    height: 300px;
+    border-top:1px solid red;
+    text-align: center;
+    background-color: #f1eded;
+    float: left;
+    margin-right: 14px;
+}
+.time-title .time{
+    padding-top: 15px;
+    text-align: center;
+    color: red;
+    font-size: 21px;
+}
+.time-title img{
+    margin: 25px auto;
+}
+.time-title .over-time{
+    color: rgba(0,0,0,0.6);
+    font-size: 15px;
+}
+.countdown{
+    margin: 28px auto 0;
+    width: 168px;
+
+}
+.timebox{
+    float: left;
+    width: 46px;
+    height: 46px;
+    line-height: 46px;
+    font-size: 24px;
+    color: #fdffff;
+    background-color: #5f5750;
+}
+.box-interval{
+    float:left;
+    width: 15px;
+    height: 46px;
+    line-height: 46px;
+    font-size: 24px;
+    color: #5f5750;
+    font-weight: bolder;
+}
+.seckill ul li{
+    width: 234px;
+    height: 339px;
+    margin-right: 14px;
+
+    float: left;
+    text-align: center;
+    background: rgba(0,0,0,0.02);
+}
+.seckill-1{
+    width: 234px;
+    height: 339px;
+    border-top: 1px solid yellow;
+}
+.seckill-2{
+    width: 234px;
+    height: 339px;
+    border-top: 1px solid red;
+}
+.seckill-3{
+    width: 234px;
+    height: 339px;
+    border-top: 1px solid purple;
+}
+.seckill-4{
+    width: 234px;
+    height: 339px;
+    border-top: 1px solid blue;
+}
+
+.seckill-img{
+    width: 160px;
+    margin: 0 auto 22px;
+    padding-top: 50px;
+}
+.flag{
+    width: 64px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: red;
+    color: #ffffff;
+}
+.share-h3{
+    font-weight: normal ;
+    font-size:14px;
+    color: #212121;
+}
+.p-3{
+    height: 18px;
+    line-height: 18px;
+    font-size: 12px;
+    color: #b0b0b0;
+    margin: 10px 0;
+}
+.p-4{
+    font-size: 14px;
+    color: red;
+}
+.original-price{
+    color: #b0b0b0;
+    text-decoration: line-through;
+}
+.seckill ul li a:hover{
+    text-decoration: none;
+}
+.MiFlashPurchase{
+    width: 1226px;
+    height: 58px;
+    margin: 0 auto;
+}
+.MiFlashPurchase h2{
+    font-size: 24px;
+    line-height: 58px;
+    font-weight: 200;
+    float: left;
+}
+.line{
+    line-height: 58px;
+}
+.MiFlashPurchaseleft{
+    float: right;
+    width: 26px;
+    height: 16px;
+    font-weight: bold;
+    border:1px solid #e0e0e0;
+    padding:3px 5px;
+    text-align: center;
+    line-height: 16px;
+    font-weight: bold;
+    color: #424242;
+    margin-top: 16px;
+}
+.MiFlashPurchaseleft i{
+
+    font-size: 15px;
+
+}
+.MiFlashPurchaseleft:hover{
+    color: orange;
+}
+.MiFlashPurchaseright{
+    float: right;
+    width: 26px;
+    height: 16px;
+    font-size: 16px;
+    border:1px solid #e0e0e0;
+    padding: 3px 5px;
+    text-align: center;
+    line-height: 16px;
+    font-weight: bold;
+    color: #424242;
+    margin-top: 16px;
+}
+.MiFlashPurchaseright:hover{
+    color: orange;
+}
+.daohang-right{
+    width: 84px;
+    height: 471px;
+    position: fixed;
+    right: 0;
+    bottom: 80px;
+    background-color:white;
+    text-align: center;
+    z-index: 10;
+    margin-bottom: 300px;
+}
+.daohang-right ul li{
+    width:66px ;
+    height: 68px;
+    margin-left: 0;
+    padding:12px 8px;
+}
+.daohang-right ul li a:hover{
+    color: orange;
+}
+.biankuan{
+    border-bottom:1px solid #757575;
+}
+.daohang-right ul li p i{
+    font-size:28px;
+    margin: 0 auto;
+}
+.dingbu{
+    position:fixed;
+    right: 0px;
+    bottom: 240px;
+    z-index: 12;
+    width: 82px;
+    height: 90px;
+    background: white;
+}
+.bar-link{
+    width: 66px;
+    height: 74px;
+    border-bottom: 1px solid #f5f5f5;
+    display: block;
+    text-align: center;
+    padding: 12px 8px;
+}
+.dingbu a:hover{
+    color: orange;
+}
+.bar-link p i{
+    font-size: 28px;
+}
+.Arrow1{
+    color: #808080;
+    font-size:48px;
+    position: absolute;
+    right:950px;
+    top:330px;
+    z-index: 9;
+    width: 41px;
+    height: 69px;
+    line-height: 69px;
+    text-align: center;
+    margin-top: -35px;
+}
+.Arrow1:hover{
+    background: #424242;
+}
+.Arrow2{
+    color: gray;
+    position: absolute;
+    top:330px;
+    right: 3px;
+    z-index: 8;
+    width: 41px;
+    height: 69px;
+    line-height: 69px;
+    text-align: center;
+    margin-top: -35px;
+}
+.Arrow2 i{
+    font-size: 40px;
+}
+.Arrow1 i{
+    font-size: 40px;
+}
+.Arrow2:hover{background: #424242}
+.cf{
+    position: absolute;
+    top: 500px;
+    left: 1100px;
+    z-index: 20;
+}
+.c1{
+    width: 6px;
+    height: 6px;
+    border: 2px solid white;
+    background: gray;
+    float: right;
+    border-radius: 50px;
+    margin-left: 10px; ;
+}
